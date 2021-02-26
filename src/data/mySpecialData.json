@@ -1,0 +1,32 @@
+{
+    "foods": [
+        {
+            "id" : 1,
+            "type": "food",
+            "title" : "Adana Kebabı",
+            "img":"https://img.acunn.com/uploads/icerikler/2020/10/10/adana-kebap-tarifi15839585245f820001272d7.jpg",
+            "description" : "Adana Kebap (Kıyma), Adana'ya özgü bir kebap çeşididir.Adana Kebabı'nı diğer kebaplardan ayıran en belirgin özellik kullanılan ettir. Et, doğal ortamda ve kendine has bir floraya sahip bölge yaylalarında yetiştirilmiş erkek koyunlardan elde edilmiş olmalıdır."
+        },
+        {
+            "id" : 2,
+            "type": "food",
+            "title" : "Lahmacun",
+            "img":"https://cdn.yemek.com/mncrop/940/625/uploads/2020/04/lahmacun-yeni-one-cikan.jpg",
+            "description" : "Lahmacun, açılmış hamurun üzerine kıyma, maydanoz, soğan, sarımsak ve karabiber, isot (kırmızı biber) gibi baharatlarla hazırlanan malzeme sürüldükten sonra taş fırında pişirilmesiyle yapılan bir pide türüdür. İsmi Arapça etli hamur anlamına gelen lahm bi ajin'den (لحم عجين) türemiştir. Lahmacun Türkiye`de yaygın olan, sevilen bir yemek türü. Özellikle Türkiye`nin Gaziantep ve Urfa illerinin lahmacunları ünlüdür. "
+        },
+        {
+            "id" : 3,
+            "type": "food",
+            "title" : "İçli Köfte",
+            "img":"https://www.bagdatbaharat.com.tr/cms-uploads/bagdat-baharat-yemek-tarifleri-icli-kofte-img.jpg",
+            "description" : "İçli köfte ya da oruk, bulgurun hamur haline getirilerek içinin doldurulması suretiyle yapılan Türk mutfağında bir yemektir. Aslen Levant mutfağına ait olan bu yemeğe kibbe ve bazı yörelerde dolgulu köfte de deniliyor. İçli köfte, iki türlü hazırlanır. Bunlardan birincisi haşlama usulüdür. Bayram, söz, nişan, kına gecesi gibi özel günler ile misafir ağırlamada mutlaka sofradaki yerini alır. İkincisi ise kızartmadır. Türkiye'nin belli bölgelerinin geleneksel yemekleri arasında olan içli köfte, yapımı zor ve uzun olduğu için gündelik yemek olmaktan çıkıp özel gün yemeği sınıfına girmiştir. Ayran ile servis edilmesi yaygın bir uygulamadır. Türkiye'de Adana, Bitlis, Osmaniye, Sivas, Kahramanmaraş, Tunceli, Elâzığ, Malatya, Mardin, Diyarbakır, Hatay, Kilis, Gaziantep, Şanlıurfa ve Adıyaman yörelerinde yapılmaktadır. Haşlanmış köfteler eritilmiş tereyağı ile servis edilebilir."
+        },
+        {
+            "id" : 4,
+            "type": "food",
+            "title" : "Mantı",
+            "img":"https://i4.hurimg.com/i/hurriyet/75/750x422/5b4ca6225379ff324cb13039.jpg",
+            "description" : "Mantı dendiğinde ilk akla gelen ilimiz kuşkusuz Kayseri’dir. Orta Asya’dan Anadolu’ya göçebe Türkler tarafından getirildiği rivayet olunur.Orjini Kayseri olan mantının tarihi çok eskilere dayanır. Orjini Kayseri olan mantının tarihi çok eskilere dayanır. Kayseri’nin ticarette ünlü olması tüccarların gittikleri yerlere Kayseri mantısını da taşıması ve günümüzde yaygın hale gelmesi bu sebepledir. Ki Kayseri’de bir dönem kız beğenmelerinde mantının ayrı bir yeri varmış. Alınmak istenen kızın değerlendirmesi mantı yapıp yapamamasıyla değerlendirilirmiş. Kayseri’nin tescilli ürünlerinden birisi olan mantı çeşitli baharatlarla zenginleştirilen ve terbiye edilen kıymanın küçük hamur parçalarının içine konulmasıyla servis edilir."
+        }
+    ]
+}
